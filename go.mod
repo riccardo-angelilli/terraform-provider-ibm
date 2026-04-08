@@ -17,10 +17,10 @@ require (
 	github.com/IBM/cloudant-go-sdk v0.8.0
 	github.com/IBM/code-engine-go-sdk v0.0.0-20260304141634-773f5cd0b0ed
 	github.com/IBM/configuration-aggregator-go-sdk v0.0.2
-	github.com/IBM/container-registry-go-sdk v1.2.0
+	github.com/IBM/container-registry-go-sdk v1.3.0
 	github.com/IBM/continuous-delivery-go-sdk/v2 v2.0.6
+	github.com/IBM/event-notifications-go-admin-sdk v0.22.0
 	github.com/IBM/dra-go-sdk v0.0.0-20251210070042-5072d22c26d0
-	github.com/IBM/event-notifications-go-admin-sdk v0.21.0
 	github.com/IBM/eventstreams-go-sdk v1.4.0
 	github.com/IBM/go-sdk-core/v5 v5.21.2
 	github.com/IBM/ibm-backup-recovery-sdk-go v1.2.1
@@ -216,7 +216,7 @@ require (
 	golang.org/x/tools v0.43.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20251202230838-ff82c1b0f217 // indirect
-	google.golang.org/grpc v1.79.2 // indirect
+	google.golang.org/grpc v1.79.3 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
